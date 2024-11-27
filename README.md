@@ -20,8 +20,19 @@ Modifiable variables :
 - For the third person camera (Monster Hunter) : in the BP_MHCharacter, the "Camera" categories, “Aiming” and “PlayRate” contain variables that can be modified by game designers
 
 ![Capture d’écran 2024-11-27 142953](https://github.com/user-attachments/assets/50d05ff4-6254-4132-8e2d-11694f730733)
-- For the 2.5D camera (Chants of Sennaar) :
+- For the 2.5D camera (Chants of Sennaar) : in the BP_ThirdPersonCharacter, the logic for movement using the current BP_FixedCamera's vector
 
+![Screenshot 2024-11-28 005207](https://github.com/user-attachments/assets/2e5bd928-6c23-466c-8d30-1b369a1afe1b)
+
+In the BP_FixedCamera, the logic for detecting the player on overlap with a collider, and for setting this Camera as the nex ActiveCamera
+
+![Screenshot 2024-11-28 005048](https://github.com/user-attachments/assets/7077dec9-5246-4c90-abc9-959b3a777cf1)
+![Screenshot 2024-11-28 004956](https://github.com/user-attachments/assets/c23b10cc-71f8-4985-8dc8-4060a55f1386)
+
+In the BP_FixedCamera, the logic for moving along a spline as the player moves between two specified points
+
+![Screenshot 2024-11-28 004842](https://github.com/user-attachments/assets/57ecb972-c321-4fac-a22f-c976da2e57a6)
+![Screenshot 2024-11-28 004920](https://github.com/user-attachments/assets/fa61e0ae-663e-4a74-83c4-f40aad9e6149)
 
 How to play :
 - For the first person camera (Ghostrunner)
