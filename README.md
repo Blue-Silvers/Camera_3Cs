@@ -10,7 +10,7 @@ Where to find Blueprints :
 ![Capture d’écran 2024-11-27 142131](https://github.com/user-attachments/assets/8ee09b9c-b57b-4741-b170-630d51fafc62)
 - For the third person camera (Monster Hunter) : Content\MonsterHunterTPS\Blueprints
 ![Capture d’écran 2024-11-27 141554](https://github.com/user-attachments/assets/1ca1cba7-0fd0-4dfc-87ed-206efd188525)
-- For the 2.5D camera (Chants of Sennaar) : Content\
+- For the 2.5D camera (Chants of Sennaar) : Content\ChantsOfSennaar
  
  
 Modifiable variables :
