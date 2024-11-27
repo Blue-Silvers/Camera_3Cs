@@ -11,16 +11,7 @@ Where to find Blueprints :
 - For the third person camera (Monster Hunter) : Content\MonsterHunterTPS\Blueprints
 ![Capture d’écran 2024-11-27 141554](https://github.com/user-attachments/assets/1ca1cba7-0fd0-4dfc-87ed-206efd188525)
 - For the 2.5D camera (Chants of Sennaar) : Content\ChantsOfSennaar
- 
- 
-Modifiable variables :
-- For the first person camera (Ghostrunner) : in the BP_FirstPersonCharacter, the categories "Movement", "WallRun", "Dash" and "Camera" contain the variables modifiable by the game designer
-
-![Capture d’écran 2024-11-27 143456](https://github.com/user-attachments/assets/f0419cbd-10e3-4423-a1e2-c2506d9f1cb2)
-- For the third person camera (Monster Hunter) : in the BP_MHCharacter, the "Camera" categories, “Aiming” and “PlayRate” contain variables that can be modified by game designers
-
-![Capture d’écran 2024-11-27 142953](https://github.com/user-attachments/assets/50d05ff4-6254-4132-8e2d-11694f730733)
-- For the 2.5D camera (Chants of Sennaar) : in the BP_ThirdPersonCharacter, the logic for movement using the current BP_FixedCamera's vector
+In the BP_ThirdPersonCharacter, the logic for movement using the current BP_FixedCamera's vector
 
 ![Screenshot 2024-11-28 005207](https://github.com/user-attachments/assets/2e5bd928-6c23-466c-8d30-1b369a1afe1b)
 
@@ -33,6 +24,16 @@ In the BP_FixedCamera, the logic for moving along a spline as the player moves b
 
 ![Screenshot 2024-11-28 004842](https://github.com/user-attachments/assets/57ecb972-c321-4fac-a22f-c976da2e57a6)
 ![Screenshot 2024-11-28 004920](https://github.com/user-attachments/assets/fa61e0ae-663e-4a74-83c4-f40aad9e6149)
+ 
+ 
+Modifiable variables :
+- For the first person camera (Ghostrunner) : in the BP_FirstPersonCharacter, the categories "Movement", "WallRun", "Dash" and "Camera" contain the variables modifiable by the game designer
+
+![Capture d’écran 2024-11-27 143456](https://github.com/user-attachments/assets/f0419cbd-10e3-4423-a1e2-c2506d9f1cb2)
+- For the third person camera (Monster Hunter) : in the BP_MHCharacter, the "Camera" categories, “Aiming” and “PlayRate” contain variables that can be modified by game designers
+
+![Capture d’écran 2024-11-27 142953](https://github.com/user-attachments/assets/50d05ff4-6254-4132-8e2d-11694f730733)
+- For the 2.5D camera (Chants of Sennaar) : 
 
 How to play :
 - For the first person camera (Ghostrunner)
