@@ -11,7 +11,7 @@ Where to find Blueprints :
 - For the third person camera (Monster Hunter) : Content\MonsterHunterTPS\Blueprints
 ![Capture d’écran 2024-11-27 141554](https://github.com/user-attachments/assets/1ca1cba7-0fd0-4dfc-87ed-206efd188525)
 - For the 2.5D camera (Chants of Sennaar) : Content\ChantsOfSennaar
-In the BP_ThirdPersonCharacter, the logic for movement using the current BP_FixedCamera's vector
+In the BP_ChantsOfSennaar, the logic for movement using the current BP_FixedCamera's vector
 
 ![Screenshot 2024-11-28 005207](https://github.com/user-attachments/assets/2e5bd928-6c23-466c-8d30-1b369a1afe1b)
 
