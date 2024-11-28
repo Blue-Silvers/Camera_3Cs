@@ -33,7 +33,6 @@ Modifiable variables :
 - For the third person camera (Monster Hunter) : in the BP_MHCharacter, the "Camera" categories, “Aiming” and “PlayRate” contain variables that can be modified by game designers
 
 ![Capture d’écran 2024-11-27 142953](https://github.com/user-attachments/assets/50d05ff4-6254-4132-8e2d-11694f730733)
-- For the 2.5D camera (Chants of Sennaar) : 
 
 How to play :
 - For the first person camera (Ghostrunner)
